@@ -17,3 +17,10 @@ What they do:
 * From the temp json file, get the resources part and append it to the empty .tfstate file
 
 That's it.
+
+## Prerequisites 
+You need to [install jq](https://stedolan.github.io/jq/download/) on the machine that runs terraform.
+
+## Running
+1. Put both shell and pythong script in the folder that contains all of your .tf files.
+2. Run 

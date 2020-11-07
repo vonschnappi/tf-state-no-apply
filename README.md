@@ -22,5 +22,5 @@ That's it.
 You need to [install jq](https://stedolan.github.io/jq/download/) on the machine that runs terraform.
 
 ## Running
-1. Put both shell and pythong script in the folder that contains all of your .tf files.
+1. Put both shell and python script in the folder that contains all of your .tf files.
 2. Run `tf-state.sh`
